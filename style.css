@@ -1,0 +1,48 @@
+button {
+    margin: 1 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #9fe6ab;
+    border-radius: 1em;
+    background-color: #1ca354;
+    background-clip: padding-box;
+    
+     
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    color: #9fe6ab;
+}
+
+input,
+label {
+    font: 1em sans-serif;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 1px;
+padding: 2em;
+font-size: small;
+width: 50px;
+align-items: center;
+padding-block-end:  01em;
+width: 400px;
+background-color: #8fec9e;
+}
+
+form {
+    font-size:small;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgba(red, green, blue, alpha)
+}
+ 
